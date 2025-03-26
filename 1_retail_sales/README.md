@@ -1,12 +1,13 @@
-# Retail Sales AnalysProject Overview
----
-## Project Overview
----
+# Retail Sales Analys Project 
+![retail_sales_image](https://github.com/michalpuskac/SQL/blob/main/1_retail_sales/cover.jpg)
 
-**Project Title:** Retail Sales Analysis
-**Level:** Beginner
-**Database:** p1_retail_db
----
+## Project Overview
+
+**Project Title:** Retail Sales Analysis<br>
+**Level:** Beginner<br>
+**Database:** p1_retail_db<br>
+
+
 ## Objectives
 
 1. Set up a retail sales database: Create and populate a retail sales database with the provided sales data.
@@ -309,5 +310,5 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
-- **LinkedIn**:[LinkedIn](linkedin.com/in/michal-puškáč-94b925179)
-- **GitHub**: [GitHub](github.com/michalpuskac)
+- **LinkedIn**:[LinkedIn ](https://www.linkedin.com/in/michal-pu%C5%A1k%C3%A1%C4%8D-94b925179/)
+- **GitHub**: [GitHub ](https://github.com/michalpuskac)
