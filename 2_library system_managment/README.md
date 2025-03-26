@@ -8,7 +8,7 @@
 
 This project demonstrates the implementation of a Library Management System using SQL. It includes creating and managing tables, performing CRUD operations, and executing advanced SQL queries. The goal is to showcase skills in database design, manipulation, and querying.
 
-![Library_project](2_library system_managment/dataset-cover.jpeg)
+![Library_project](https://github.com/michalpuskac/SQL/blob/main/2_library%20system_managment/dataset-cover.jpeg)
 
 ## Objectives
 
@@ -408,7 +408,11 @@ GROUP BY 1, 2
 -Write a query to identify members who have issued books more than twice with the status "damaged" in the books table. Display the member name, book title, and the number of times they've issued damaged books.    
 
 ```sql
-CREATE OR REPLACE PROCEDURE issue_book(p_issued_id VARCHAR(10), p_issued_member_id VARCHAR(30), p_issued_book_isbn VARCHAR(30), p_issued_emp_id VARCHAR(10))
+CREATE OR REPLACE PROCEDURE
+            issue_book(p_issued_id VARCHAR(10),
+            p_issued_member_id VARCHAR(30),
+            p_issued_book_isbn VARCHAR(30),
+            p_issued_emp_id VARCHAR(10))
 LANGUAGE plpgsql
 AS $$
 
@@ -481,5 +485,5 @@ This project demonstrates the application of SQL skills in creating and managing
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
-- **LinkedIn**:[LinkedIn](linkedin.com/in/michal-puškáč-94b925179)
-- **GitHub**: [GitHub](github.com/michalpuskac)
+- **LinkedIn**:[ LinkedIn](https://www.linkedin.com/in/michal-pu%C5%A1k%C3%A1%C4%8D-94b925179/)
+- **GitHub**: [ GitHub](https://github.com/michalpuskac)
